@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch&family=Island+Moments&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300;400&family=Island+Moments&family=Poor+Story&display=swap');
+
+p{
+    background: #b0cdd6;
+}
+
+.fuente1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fuente2{
+    font-size: 30px;
+    font-family: 'Island Moments', cursive;
+}
+
+.fuente3{
+    font-size: 20px;
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+.fuente4{
+    font-size: 20px;
+    font-family: 'Poor Story', cursive;
+}

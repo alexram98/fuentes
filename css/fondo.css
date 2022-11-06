@@ -1,0 +1,15 @@
+body{
+    /*background-color: aqua;
+    background-image: url("../img/navidadfeliz.webp");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    color: white;
+    font-size: 100px;
+    background: orangered url("../img/navidadfeliz.webp") no-repeat fixed;
+}
+
+.footer{
+    color: black;
+    background: red url("../img/navidad.webp")
+    
+}
